@@ -19,7 +19,7 @@
   --message-padding-side: 8px;
   --mention-hue: var(--accent-hue);
   --mention-saturation: var(--accent-saturation);
-  --mention-lightness: var(--accent-lightness);
+  --mention-lightness: %20.0;
   --mention-hsl: var(--mention-hue),calc(var(--mention-saturation) * var(--saturation-factor)),var(--mention-lightness);
   --mention-opacity: 1;
   --reply-hue: 226;
